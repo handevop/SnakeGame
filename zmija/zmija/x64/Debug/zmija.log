@@ -1,0 +1,61 @@
+﻿  stdafx.cpp
+  Main.cpp
+D:\zmija\zmija\Main.cpp(50,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(90,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(90,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(106,16): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\zmija\zmija\Main.cpp(111,16): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\zmija\zmija\Main.cpp(225,18): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\zmija\zmija\Main.cpp(230,18): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\zmija\zmija\Main.cpp(263,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(271,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(279,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(287,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(352,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\zmija\zmija\Main.cpp(359,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(359,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(485,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\zmija\zmija\Main.cpp(490,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(490,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\zmija\zmija\Main.cpp(494,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\zmija\zmija\Main.cpp(499,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\zmija\zmija\Main.cpp(505,73): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\zmija\zmija\Main.cpp(506,73): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\zmija\zmija\Main.cpp(507,44): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\zmija\zmija\Main.cpp(508,44): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\zmija\zmija\Main.cpp(515,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\zmija\zmija\Main.cpp(428,6): warning C4101: 'm': unreferenced local variable
+D:\zmija\zmija\Main.cpp(428,9): warning C4101: 'p': unreferenced local variable
+  zmija.vcxproj -> D:\zmija\x64\Debug\zmija.exe

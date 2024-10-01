@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+  Main.cpp
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(96): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(101): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(215): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(220): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(253): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(261): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(269): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(277): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(349): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(473): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(418): warning C4101: 'm': unreferenced local variable
+c:\users\antonio\documents\visual studio 2017\projects\zmija\zmija\main.cpp(418): warning C4101: 'p': unreferenced local variable
+sfml-window-d.lib(sfml-window-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
